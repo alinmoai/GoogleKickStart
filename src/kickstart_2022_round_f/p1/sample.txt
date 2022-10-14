@@ -1,0 +1,15 @@
+4
+2
+blue 2 1
+yellow 1 2
+2
+blue 2 1
+brown 2 2
+1
+red 1 1
+5
+blue 1 2
+green 1 4
+orange 2 5
+red 3 6
+yellow 3 7
